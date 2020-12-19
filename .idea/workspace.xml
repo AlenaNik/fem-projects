@@ -14,6 +14,28 @@
       <change afterPath="$PROJECT_DIR$/aliengame/src/components/gameStateFinish.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aliengame/src/components/gameStateStart.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aliengame/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/assets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/assets/headerimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/assets/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/layouts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/middleware/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/nuxt.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/plugins/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/static/dimsum-eggplant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/store/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame/package.json" afterDir="false" />
@@ -29,7 +51,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aliengame" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/foodapp" />
   </component>
   <component name="ProjectId" id="1lpgmH80ngaN8xHx3hGYgk1qWMy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aliengame/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodapp/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,7 +75,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/foodapp/static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/foodapp/assets" />
       <recent name="$PROJECT_DIR$/aliengame/src/assets" />
       <recent name="$PROJECT_DIR$/aliengame/src/components" />
     </key>
@@ -68,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608299604034</updated>
-      <workItem from="1608299608722" duration="9544000" />
+      <workItem from="1608299608722" duration="15982000" />
     </task>
     <servers />
   </component>
