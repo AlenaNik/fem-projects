@@ -18,6 +18,9 @@
       <change afterPath="$PROJECT_DIR$/foodapp/components/AppHeader.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/foodapp/components/AppMenu.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/foodapp/components/AppRestaurantInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/components/AppSelect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/components/AppToast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodapp/pages/item/_id.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/foodapp/pages/restaurants.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/foodapp/plugins/getfood.server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/foodapp/static/dimsum-shrimp.jpg" afterDir="false" />
@@ -84,6 +87,7 @@
       <recent name="$PROJECT_DIR$/aliengame/src/components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/foodapp/pages/item" />
       <recent name="$PROJECT_DIR$/foodapp/plugins" />
       <recent name="$PROJECT_DIR$/foodapp/static" />
     </key>
@@ -99,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608299604034</updated>
       <workItem from="1608299608722" duration="17822000" />
-      <workItem from="1608483242643" duration="6492000" />
+      <workItem from="1608483242643" duration="24148000" />
     </task>
     <servers />
   </component>
