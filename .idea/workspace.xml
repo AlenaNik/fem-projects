@@ -14,26 +14,6 @@
       <change afterPath="$PROJECT_DIR$/aliengame/src/components/gameStateFinish.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aliengame/src/components/gameStateStart.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/aliengame/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppFooter.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppMenu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppRestaurantInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppSelect.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/components/AppToast.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/pages/cart.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/pages/item/_id.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/pages/restaurants.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/plugins/getfood.server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/dimsum-shrimp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/dimsum-soup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/pizza-meat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/pizza-plain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/pizza-veggie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/taco-burrito.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/taco-quesadilla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodapp/static/taco-taco.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame/public/index.html" afterDir="false" />
@@ -41,13 +21,6 @@
       <change beforePath="$PROJECT_DIR$/aliengame/src/components/HelloWorld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aliengame/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/aliengame/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/foodapp/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +79,7 @@
       <updated>1608299604034</updated>
       <workItem from="1608299608722" duration="17822000" />
       <workItem from="1608483242643" duration="24534000" />
-      <workItem from="1608667216999" duration="4389000" />
+      <workItem from="1608667216999" duration="5091000" />
     </task>
     <servers />
   </component>
